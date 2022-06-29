@@ -41,7 +41,7 @@ public class WorkerResource {
 			Thread.sleep(3000L);
 		} catch (Exception e) {
 			e.printStackTrace();
-		}*/
+		}*/ 
 		
 		logger.info("PORT = "+env.getProperty("local.server.port"));
 		
